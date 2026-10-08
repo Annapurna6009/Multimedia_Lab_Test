@@ -1,26 +1,19 @@
 {
-    "File Type Identified": "VIDEO",
-    "File Name": "proper_video.mp4",
-    "File Size": "0.75 MB",
-    "Container": "QuickTime / MOV",
-    "Duration": "10.03 seconds",
-    "Video": {
-        "Resolution": "320x176",
-        "Frame Rate": "25/1",
-        "Bit Rate": "300 kbps",
-        "Codec": "h264"
-    },
-    "Audio": {
-        "Codec": "aac",
-        "Channels": "2",
-        "Sampling Rate": "48000 Hz",
-        "Bit Rate": "160 kbps"
-    },
+    "File Type Identified": "AUDIO",
+    "File Name": "voice-sample.mp3",
+    "File Size": "0.60 MB",
+    "Channels": "1",
+    "Sampling Rate": "44100 Hz",
+    "Bit Rate": "192 kbps",
+    "Duration": "26.30 seconds",
     "Metadata": {
-        "major_brand": "mp42",
-        "minor_version": "0",
-        "compatible_brands": "mp42isomavc1",
-        "creation_time": "2012-03-13T08:58:06.000000Z",
-        "encoder": "HandBrake 0.9.6 2012022800"
-    }
+        "TALB": "Sample Audio Files",
+        "TDRC": "2025",
+        "TPE1": "Sample-Files.com",
+        "COMM::\u0000\u0000\u0000": "This audio is provided by Sample-Files.com for developer testing, speech processing, and general audio use. A clear voice recording for speech processing and recognition testing. Not for commercial redistribution.",
+        "COMM::XXX": "This audio is provided by Sample-Files.com for developer testing, speech processing, and general audio use. A clear voice recording for speech processing and recognition testing. Not for commercial redistribution.",
+        "TIT2": "Sample Voice Recording for Developer Testing",
+        "TCON": "Speech"
+    },
+    "Speech-to-Speech Path": "samples/voice-sample_sts.mp3"
 }
