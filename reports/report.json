@@ -1,19 +1,21 @@
 {
     "File Type Identified": "AUDIO",
-    "File Name": "voice-sample.mp3",
-    "File Size": "0.60 MB",
+    "File Name": "voice-sample.ogg",
+    "File Size": "0.14 MB",
     "Channels": "1",
     "Sampling Rate": "44100 Hz",
-    "Bit Rate": "192 kbps",
-    "Duration": "26.30 seconds",
+    "Bit Rate": "64 kbps",
+    "Duration": "20.00 seconds",
     "Metadata": {
-        "TALB": "Sample Audio Files",
-        "TDRC": "2025",
-        "TPE1": "Sample-Files.com",
-        "COMM::\u0000\u0000\u0000": "This audio is provided by Sample-Files.com for developer testing, speech processing, and general audio use. A clear voice recording for speech processing and recognition testing. Not for commercial redistribution.",
-        "COMM::XXX": "This audio is provided by Sample-Files.com for developer testing, speech processing, and general audio use. A clear voice recording for speech processing and recognition testing. Not for commercial redistribution.",
-        "TIT2": "Sample Voice Recording for Developer Testing",
-        "TCON": "Speech"
+        "copyright": "['\u00a9 2026 Sample-Files.com. All rights reserved.']",
+        "description": "['voice-sample - OGG audio test file']",
+        "genre": "['Audio Test Files']",
+        "title": "['voice-sample']",
+        "album": "['OGG Audio Test Files']",
+        "artist": "['Sample-Files.com']",
+        "encoder": "['Lavc61.19.101 libvorbis']",
+        "publisher": "['Sample-Files.com Studio']",
+        "albumartist": "['Sample-Files.com']"
     },
-    "Speech-to-Speech Path": "samples/voice-sample_sts.mp3"
+    "Speech-to-Speech Path": "samples/voice-sample_sts.ogg"
 }
